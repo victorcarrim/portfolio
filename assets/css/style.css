@@ -151,7 +151,7 @@
 }
 #t-about .grid-layout>div #creator-photo{
     width:47%;
-    background-image:url("../image/logo.svg");
+    background-image:url("../image/logo-page.svg");
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
